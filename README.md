@@ -4,3 +4,7 @@ Natural disasters are inevitable and we must be prepared for it. So we have plan
 •	We will collecting relevant information from social media and run it through machine learning and deep learning algorithm to determine its validity and Geoparsing which will identify the places of disaster on map. 
 •	We also implement a system in app by which users can send his location by pressing a button when he is in damage during disaster period. The location will be displayed on the map (show your latitude, longitude and location name) and will be informed to the contact numbers of the particular persons given by the user. 
 •	In future on the same app we are planning to develop health recording system which will include the relevant details of the users medical history which can be accessed through fingerprint and facial recognition (for privacy reasons) for medical reasons of the injured person. 
+
+
+Distribution of the tweet fake or real
+
