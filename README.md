@@ -9,3 +9,13 @@ Natural disasters are inevitable and we must be prepared for it. So we have plan
 WordCloud of Train Datasets
 https://user-images.githubusercontent.com/34141117/94191064-997a4f00-feca-11ea-83fb-3a81aa4ca2d1.png
 
+![tweet20hottest](https://user-images.githubusercontent.com/34141117/94191104-abf48880-feca-11ea-8bd6-525cfc8d8eb6.png)
+
+![amountoftweet](https://user-images.githubusercontent.com/34141117/94191099-a8f99800-feca-11ea-800a-279c5e7e4a8a.png)
+
+![wordcloudTrain](https://user-images.githubusercontent.com/34141117/94191064-997a4f00-feca-11ea-83fb-3a81aa4ca2d1.png)
+
+![wordcloud1](https://user-images.githubusercontent.com/34141117/94191082-a303b700-feca-11ea-85d0-81fedeee71fe.png)
+
+
+
