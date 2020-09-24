@@ -6,5 +6,6 @@ Natural disasters are inevitable and we must be prepared for it. So we have plan
 •	In future on the same app we are planning to develop health recording system which will include the relevant details of the users medical history which can be accessed through fingerprint and facial recognition (for privacy reasons) for medical reasons of the injured person. 
 
 
-Distribution of the tweet fake or real
+WordCloud of Train Datasets
+https://user-images.githubusercontent.com/34141117/94191064-997a4f00-feca-11ea-83fb-3a81aa4ca2d1.png
 
